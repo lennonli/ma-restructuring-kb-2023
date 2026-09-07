@@ -11,7 +11,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CASES = os.path.join(ROOT, "cases")
 
 FM_FIELDS = ["company", "short", "code", "board", "layer", "listing_date",
-             "inquiry_rounds", "cutoff_date", "lawyer", "tags"]
+             "inquiry_rounds", "cutoff_date", "lawyer", "tags",
+             "deal_type", "pay_method", "deal_amount", "status",
+             "registered_date", "fin_adv"]
 
 
 def parse_frontmatter(text):
@@ -31,6 +33,13 @@ def parse_frontmatter(text):
             fm[k] = [t.strip().strip('"').strip() for t in v.strip("[]").split(",") if t.strip()]
         elif k == "inquiry_rounds":
             fm[k] = int(v) if v.isdigit() else 0
+        elif k == "deal_amount":
+            normalized = v.replace(",", "")
+            try:
+                number = float(normalized)
+                fm[k] = int(number) if number.is_integer() else number
+            except ValueError:
+                fm[k] = v
         else:
             fm[k] = v
     return fm

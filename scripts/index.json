@@ -1,13 +1,13 @@
 [
  {
   "file": "600072-中船科技股份.md",
-  "company": "",
-  "short": "",
-  "code": "",
-  "board": "",
+  "company": "中船科技股份有限公司",
+  "short": "中船科技股份",
+  "code": "600072",
+  "board": "沪市主板",
   "layer": "",
   "listing_date": "",
-  "inquiry_rounds": "",
+  "inquiry_rounds": 0,
   "cutoff_date": "",
   "lawyer": "北京德恒律师事务所",
   "tags": [
@@ -22,17 +22,23 @@
    "资金占用清理",
    "业绩补偿方式调整",
    "二轮问询"
-  ]
+  ],
+  "deal_type": "发行股份及支付现金购买资产并募集配套资金暨关联交易（购买中国海装100%、中船风电88.58%、新疆海为100%、洛阳双瑞44.64%少数股权、凌久电气10%少数股权）",
+  "pay_method": "混合",
+  "deal_amount": 919758.56,
+  "status": "注册生效",
+  "registered_date": "2023-07-24",
+  "fin_adv": "中国国际金融股份有限公司"
  },
  {
   "file": "600345-武汉长江通信.md",
-  "company": "",
-  "short": "",
-  "code": "",
-  "board": "",
+  "company": "武汉长江通信产业集团股份有限公司",
+  "short": "武汉长江通信",
+  "code": "600345",
+  "board": "沪市主板",
   "layer": "",
   "listing_date": "",
-  "inquiry_rounds": "",
+  "inquiry_rounds": 0,
   "cutoff_date": "",
   "lawyer": "上海市锦天城律师事务所",
   "tags": [
@@ -47,17 +53,23 @@
    "关联租赁",
    "资金归集",
    "商业贿赂核查"
-  ]
+  ],
+  "deal_type": "发行股份购买资产并募集配套资金暨关联交易（购买迪爱斯信息技术股份有限公司100%股权）",
+  "pay_method": "发股",
+  "deal_amount": 110707.31,
+  "status": "注册生效",
+  "registered_date": "2023-12-05",
+  "fin_adv": "兴业证券股份有限公司"
  },
  {
   "file": "600663-上海陆家嘴金.md",
-  "company": "",
-  "short": "",
-  "code": "",
-  "board": "",
+  "company": "上海陆家嘴金融贸易区开发股份有限公司",
+  "short": "上海陆家嘴金",
+  "code": "600663",
+  "board": "沪市主板",
   "layer": "",
   "listing_date": "",
-  "inquiry_rounds": "",
+  "inquiry_rounds": 0,
   "cutoff_date": "",
   "lawyer": "上海市锦天城律师事务所",
   "tags": [
@@ -72,17 +84,23 @@
    "资金池占用",
    "苏州绿岸污染",
    "减值测试补偿"
-  ]
+  ],
+  "deal_type": "发行股份及支付现金购买资产并募集配套资金暨关联交易（购买昌邑公司100%、东袤公司30%、耀龙公司60%、企荣公司股权）",
+  "pay_method": "混合",
+  "deal_amount": 1331896.495,
+  "status": "注册生效",
+  "registered_date": "2023-06-29",
+  "fin_adv": "海通证券股份有限公司"
  },
  {
   "file": "600720-甘肃祁连山水.md",
-  "company": "",
-  "short": "",
-  "code": "",
-  "board": "",
+  "company": "甘肃祁连山水泥集团股份有限公司",
+  "short": "甘肃祁连山水",
+  "code": "600720",
+  "board": "沪市主板",
   "layer": "",
   "listing_date": "",
-  "inquiry_rounds": "",
+  "inquiry_rounds": 0,
   "cutoff_date": "",
   "lawyer": "北京市嘉源律师事务所",
   "tags": [
@@ -98,17 +116,23 @@
    "资金归集",
    "权属瑕疵",
    "阿尔及利亚诉讼"
-  ]
+  ],
+  "deal_type": "重大资产置换及发行股份购买资产并募集配套资金暨关联交易（置出祁连山有限100%股权，置入公规院、一公院、二公院、西南院、东北院、能源院100%股权）",
+  "pay_method": "发股",
+  "deal_amount": 2350313.29,
+  "status": "注册生效",
+  "registered_date": "2023-10-30",
+  "fin_adv": "中信证券股份有限公司"
  },
  {
   "file": "605389-江苏长龄液压.md",
-  "company": "",
-  "short": "",
-  "code": "",
-  "board": "",
+  "company": "江苏长龄液压股份有限公司",
+  "short": "江苏长龄液压",
+  "code": "605389",
+  "board": "沪市主板",
   "layer": "",
   "listing_date": "",
-  "inquiry_rounds": "",
+  "inquiry_rounds": 0,
   "cutoff_date": "",
   "lawyer": "江苏世纪同仁律师事务所",
   "tags": [
@@ -120,17 +144,23 @@
    "80%触发线",
    "落实函专项",
    "仅法律意见书素材"
-  ]
+  ],
+  "deal_type": "发行股份及支付现金购买资产并募集配套资金暨关联交易（购买江阴尚驰机械设备有限公司70%股权）",
+  "pay_method": "混合",
+  "deal_amount": 33600,
+  "status": "注册生效",
+  "registered_date": "2023-08-25",
+  "fin_adv": "华泰联合证券有限责任公司"
  },
  {
   "file": "688201-北京信安世纪.md",
-  "company": "",
-  "short": "",
-  "code": "",
-  "board": "",
+  "company": "北京信安世纪科技股份有限公司",
+  "short": "北京信安世纪",
+  "code": "688201",
+  "board": "科创板",
   "layer": "",
   "listing_date": "",
-  "inquiry_rounds": "",
+  "inquiry_rounds": 0,
   "cutoff_date": "",
   "lawyer": "北京德恒律师事务所",
   "tags": [
@@ -142,17 +172,23 @@
    "业绩承诺顺延",
    "超额业绩奖励",
    "落实函专项"
-  ]
+  ],
+  "deal_type": "发行股份及支付现金购买资产（购买普世科技80%股权，不涉及募集配套资金）",
+  "pay_method": "混合",
+  "deal_amount": 24400,
+  "status": "注册生效",
+  "registered_date": "2023-05-10",
+  "fin_adv": "中国银河证券股份有限公司"
  },
  {
   "file": "688360-德马科技集团.md",
-  "company": "",
-  "short": "",
-  "code": "",
-  "board": "",
+  "company": "德马科技集团股份有限公司",
+  "short": "德马科技集团",
+  "code": "688360",
+  "board": "科创板",
   "layer": "",
   "listing_date": "",
-  "inquiry_rounds": "",
+  "inquiry_rounds": 0,
   "cutoff_date": "",
   "lawyer": "国浩律师（杭州）事务所",
   "tags": [
@@ -164,6 +200,12 @@
    "前身公司代持",
    "集体土地租赁瑕疵",
    "现金对价与业绩挂钩"
-  ]
+  ],
+  "deal_type": "发行股份及支付现金购买资产暨关联交易（收购江苏莫安迪科技股份有限公司100%股权）",
+  "pay_method": "混合",
+  "deal_amount": 55147.41,
+  "status": "注册生效",
+  "registered_date": "2023-09-21",
+  "fin_adv": "国金证券股份有限公司"
  }
 ]

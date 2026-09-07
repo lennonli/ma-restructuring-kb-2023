@@ -9,6 +9,12 @@ inquiry_rounds: 1
 cutoff_date: YYYY-MM-DD
 lawyer: （发行人/申请人律师律所全称；原文未载明留空，不得推测）
 tags: []
+deal_type: （交易方案类型）
+pay_method: （发股/混合）
+deal_amount: （交易金额，单位：万元）
+status: （注册生效/待核验）
+registered_date: YYYY-MM-DD
+fin_adv: （独立财务顾问/财务顾问机构）
 ---
 
 # {公司全称}（{代码}·{板块}）审核问询法律问题回溯
